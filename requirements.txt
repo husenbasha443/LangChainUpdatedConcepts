@@ -1,0 +1,9 @@
+langchain
+langchain_openai
+langchain_groq
+langchain-community
+python-dotenv
+langchain-google-genai
+langchain-tavily
+arxiv
+wikipedia
