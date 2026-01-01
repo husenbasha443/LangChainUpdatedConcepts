@@ -13,6 +13,7 @@ dependencies = [
     "langchain-groq>=1.1.1",
     "langchain-openai>=1.1.6",
     "langchain-tavily>=0.2.16",
+    "pydantic>=2.12.5",
     "python-dotenv>=1.2.1",
     "wikipedia>=1.4.0",
 ]

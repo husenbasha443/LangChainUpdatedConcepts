@@ -907,6 +907,7 @@ dependencies = [
     { name = "langchain-groq" },
     { name = "langchain-openai" },
     { name = "langchain-tavily" },
+    { name = "pydantic" },
     { name = "python-dotenv" },
     { name = "wikipedia" },
 ]
@@ -921,6 +922,7 @@ requires-dist = [
     { name = "langchain-groq", specifier = ">=1.1.1" },
     { name = "langchain-openai", specifier = ">=1.1.6" },
     { name = "langchain-tavily", specifier = ">=0.2.16" },
+    { name = "pydantic", specifier = ">=2.12.5" },
     { name = "python-dotenv", specifier = ">=1.2.1" },
     { name = "wikipedia", specifier = ">=1.4.0" },
 ]
