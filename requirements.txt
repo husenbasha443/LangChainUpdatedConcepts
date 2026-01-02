@@ -9,3 +9,4 @@ arxiv
 wikipedia
 pydantic
 langchain-anthropic
+google-search-results
