@@ -8,3 +8,4 @@ langchain-tavily
 arxiv
 wikipedia
 pydantic
+langchain-anthropic
